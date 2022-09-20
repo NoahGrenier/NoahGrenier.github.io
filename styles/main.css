@@ -39,10 +39,14 @@ header h3{
 main nav{
     font-size: 105%;
 }
+/*
 header ul{
     line-height: 1.5em;
+}*/
+#list {
+    line-height: 1.5em;
 }
-footer p{
+footer p.copyright{
     text-align: center;
     font-size: 80%;
 }
