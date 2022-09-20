@@ -1,5 +1,7 @@
 html{
-    /*background-color: linear-gradient(to bottom, white 0%, black 100%);*/
+    /*background-color: linear-gradient(to bottom, white 0%, black 100%);
+    background-image: repeating-conic-gradient(white 10%, black 20%);
+    border-radius: 50%;*/
     background-image: repeating-linear-gradient( white 0%, #000000 100%);
 }
 body{
@@ -41,6 +43,11 @@ main{
 }
 main h3{
     font-size: 105%;
+    margin: 3em 2em 2em 1.5em;
+    border: 5px double black;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px red;
+    padding: 1em;
 }
 /*
 header h3{
@@ -50,6 +57,11 @@ header h3{
 }*/
 main nav{
     font-size: 105%;
+    margin: 3em 2em 2em 1.5em;
+    border: 5px dashed black;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px red;
+    padding: 0.5em;
 }
 /*
 header ul{
