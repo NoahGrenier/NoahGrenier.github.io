@@ -19,7 +19,7 @@ header h2{
     float:left;
 }
 .shadow{
-    text-shadow: 10px 10px 10px rgb(128, 0, 0);
+    text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
 header h3{
     clear:left;
