@@ -32,7 +32,6 @@ header h2{
     /*float:left;*/
 }
 header img{
-    border-bottom: 2px solid maroon;
     float: left;
     margin-left: 2em;
 }
@@ -49,6 +48,7 @@ article{
     margin-left: 1em;
 }
 article h3{
+    border-top: 2px solid maroon;
     column-span: all;
 }
 article img{
