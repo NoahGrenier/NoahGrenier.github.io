@@ -82,6 +82,8 @@ p.fixed{
     padding: 2em;
     bottom: 35%;
     right: 0;
-    border: 3px solid darkgreen;
+    font-display: black;
+    font-style: bold;
+    border: 3px solid orangered;
     background-color: lightsalmon;
 }
