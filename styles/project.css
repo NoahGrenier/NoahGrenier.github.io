@@ -21,6 +21,7 @@ a:focus, a:hover{
     border-style: dotted solid;
 }
 header h1{
+    border-bottom: 2px solid maroon;
     font-size: 175%;
     color:maroon;
     text-indent: 30px;
@@ -39,6 +40,7 @@ header img{
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
 article{
+    clear: left;
     width: 70%;
     float: left;
     column-count:2;
@@ -77,6 +79,7 @@ footer p.copyright{
 p.fixed{
     width: auto;
     position: fixed;
+    padding: 150%;
     bottom: 35%;
     right: 0;
     border: 3px solid darkgreen;
