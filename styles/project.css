@@ -26,13 +26,13 @@ header h1{
     text-indent: 30px;
 }
 header h2{
-    border-bottom: 2px solid maroon;
     font-size: 130%;
     color: #800000;
     text-indent: 30px;
     /*float:left;*/
 }
 header img{
+    border-bottom: 2px solid maroon;
     float: left;
     margin-left: 2em;
 }
