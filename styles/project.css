@@ -21,12 +21,12 @@ a:focus, a:hover{
     border-style: dotted solid;
 }
 header h1{
-    border-bottom: 2px solid maroon;
     font-size: 175%;
     color:maroon;
     text-indent: 30px;
 }
 header h2{
+    border-bottom: 2px solid maroon;
     font-size: 130%;
     color: #800000;
     text-indent: 30px;
@@ -66,7 +66,7 @@ aside{
     width: 20%;
     float: right;
     padding: 0.1em 1em 1em;
-    background-color: black;
+    background-color: lightgreen;
 }
 footer{
     clear: both;
