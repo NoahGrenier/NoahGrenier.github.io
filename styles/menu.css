@@ -35,9 +35,9 @@ nav_menu ul li a.current {
     font-weight: bold;
     border-right: 2px solid white;
 }*/
-aside_menu ol{
+aside_menu ol li{
     list-style-type: upper-roman;
 }
-aside_menu ul{
+aside_menu ul li{
     list-style-type: square;
 }
