@@ -2,7 +2,7 @@ nav_menu ul {
      list-style-type: none; 
     }
 nav_menu ul li {
-     float: left; 
+     float: left;
     }
 nav_menu ul li a {
     text-align: center;
@@ -19,6 +19,9 @@ nav_menu ul li a.lastitem {
     }	
 nav_menu ul li a.current {
      color: yellow; 
+    }
+article{
+    clear:left;
     }
 /*nav{
     float: left;
