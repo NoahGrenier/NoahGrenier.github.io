@@ -35,9 +35,9 @@ article{
     font-weight: bold;
     border-right: 2px solid white;
 }*/
-aside ol{
+aside_menu ol{
     list-style-type: upper-roman;
 }
-aside ul{
+aside_menu ul{
     list-style-type: square;
 }
