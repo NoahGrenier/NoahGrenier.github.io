@@ -2,14 +2,14 @@ nav_menu ul {
      list-style-type: none; 
     }
 nav_menu ul li {
-     float: left;
+    float: left;
     }
 nav_menu ul li a {
+    float: left;
     text-align: center;
     display: block;
     width: 175px;
     padding: 1em 0;
-    text-decoration: none;
     background-color: lightblue;
     color: white;
     font-weight: bold;
