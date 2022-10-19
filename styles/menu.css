@@ -1,4 +1,4 @@
-nav_menu ul { list-style-type: none; }
+/*nav_menu ul { list-style-type: none; }
 nav_menu ul li { float: left; }
 nav_menu ul li a {
     text-align: center;
@@ -11,14 +11,15 @@ nav_menu ul li a {
     font-weight: bold;
     border-right: 2px solid white; }
 nav_menu ul li a.lastitem { border-right: none; }	
-nav_menu ul li a.current { color: yellow; }
+nav_menu ul li a.current { color: yellow; } */
 nav{
+    float: left;
     text-align: center;
     display: block;
     width: 175px;
     padding: 1em 0;
     text-decoration: none;
-    background-color: blue;
+    background-color: lightblue;
     color: white;
     font-weight: bold;
     border-right: 2px solid white;
