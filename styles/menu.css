@@ -20,9 +20,9 @@ nav_menu ul li a.lastitem {
 nav_menu ul li a.current {
      color: yellow; 
     }
-article{
+/*article{
     clear:left;
-    }
+    }*/
 /*nav{
     float: left;
     text-align: center;
