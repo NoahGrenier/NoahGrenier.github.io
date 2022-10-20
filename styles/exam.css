@@ -21,9 +21,18 @@ nav ul {
     text-decoration: none;
     border-right: 2px solid black; 
   }
+  body{
+    width: 95%;
+    margin: 15px auto;
+    background-color: white;
+    padding: 15px 1.5em;
+    border: 1px solid (52, 50, 159, 0.816);
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+  }
   article{
     clear: left;
-    width: 70%;
+    width: 75%;
     float: left;
     column-count:3;
     column-rule: 2px dotted rgba(52, 50, 159, 0.816);
@@ -53,7 +62,7 @@ footer p.copyright{
     font-size: 80%;
 }
 aside.fixed{
-    width: auto;
+    width: 20%;
     position: fixed;
     padding: 2em;
     bottom: 35%;
