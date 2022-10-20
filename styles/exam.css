@@ -39,6 +39,9 @@ nav ul {
     column-gap: 0.5em;
     margin-left: 1em;
 }
+article img{
+    float: left;
+}
 article p::first-letter{
     font-size: 2em;
     font-weight: bold;
