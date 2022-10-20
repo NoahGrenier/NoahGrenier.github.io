@@ -25,8 +25,8 @@ nav ul {
     width: 95%;
     margin: 15px auto;
     background-color: white;
-    padding: 15px 1.5em;
-    border: 1px solid (52, 50, 159, 0.816);
+    padding: 20px 2.5em;
+    border: 2px solid (52, 50, 159, 0.816);
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
   }
@@ -35,8 +35,8 @@ nav ul {
     width: 75%;
     float: left;
     column-count:3;
-    column-rule: 2px dotted rgba(52, 50, 159, 0.816);
-    column-gap: 4em;
+    column-rule: 5px dotted rgba(52, 50, 159, 0.816);
+    column-gap: 0.5em;
     margin-left: 1em;
 }
 article p::first-letter{
@@ -56,6 +56,9 @@ aside_menu ol li a{
 }
 aside_menu ul li a{
     list-style-type: square;
+}
+footer{
+    clear:left;
 }
 footer p.copyright{
     text-align: center;
