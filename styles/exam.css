@@ -62,6 +62,7 @@ aside_menu ul li a{
 }
 footer{
     clear:left;
+    border-top: 2px solid blue;
 }
 footer p.copyright{
     clear:left;
