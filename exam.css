@@ -47,6 +47,6 @@ footer.fixed{
     right: 0;
     font-display: black;
     font-style: bold;
-    border: 3px solid orangered;
-    background-color: lightsalmon;
+    border: 3px solid blue;
+    background-color: rgb(51, 50, 159);
 }
