@@ -1,0 +1,46 @@
+nav ul {
+    list-style-type: none;
+    display: block;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(51, 50, 159);
+  }
+  
+ nav ul li {
+    float: left;
+  }
+  
+ nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1en 0;
+    width: 50px;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 2px solid black; 
+  }
+aside ol li{
+    list-style-type: upper-roman;
+}
+aside ul li{
+    list-style-type: square;
+}
+aside_menu ol li a{
+    list-style-type: upper-roman;
+}
+aside_menu ul li a{
+    list-style-type: square;
+}
+p.fixed{
+    width: auto;
+    position: fixed;
+    padding: 2em;
+    bottom: 35%;
+    right: 0;
+    font-display: black;
+    font-style: bold;
+    border: 3px solid orangered;
+    background-color: lightsalmon;
+}
