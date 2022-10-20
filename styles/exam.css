@@ -4,7 +4,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgba(52, 50, 159, 0.816);
+    background-color: rgba(61, 61, 88, 0.674);
   }
   
  nav ul li {
@@ -61,5 +61,5 @@ aside.fixed{
     font-display: black;
     font-style: bold;
     border: 3px solid blue;
-    background-color: rgb(51, 50, 159);
+    background-color: rgba(61, 61, 88, 0.674);
 }
