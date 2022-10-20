@@ -19,31 +19,6 @@ nav ul {
     padding: 14px 16px;
     text-decoration: none;
   }
-/*nav_menu ul {
-     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: lightblue;
-    }
-nav_menu ul li {
-    float: left;
-    }
-nav_menu ul li a {
-    text-align: center;
-    display: block;
-    width: 175px;
-    padding: 1em 0;
-    background-color: lightblue;
-    color: white;
-    font-weight: bold;
-    border-right: 2px solid white; }
-nav_menu ul li a.lastitem {
-     border-right: none; 
-    }	
-nav_menu ul li a.current {
-     color: yellow; 
-    }*/
 aside ol li{
     list-style-type: upper-roman;
 }
