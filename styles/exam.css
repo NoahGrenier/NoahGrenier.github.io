@@ -39,7 +39,7 @@ nav ul {
     column-gap: 0.5em;
     margin-left: 1em;
 }
-article h1{
+article h3{
     border-top: 2px solid maroon;
     column-span: all;
 }
