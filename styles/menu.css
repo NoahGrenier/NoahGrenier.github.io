@@ -45,6 +45,9 @@ nav_menu ul li a.current {
 aside ol li{
     list-style-type: upper-roman;
 }
+aside ul li{
+    list-style-type: square;
+}
 aside_menu ol li a{
     list-style-type: upper-roman;
 }
