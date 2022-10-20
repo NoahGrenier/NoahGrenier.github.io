@@ -4,7 +4,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(51, 50, 159);
+    background-color: rgba(52, 50, 159, 0.816);
   }
   
  nav ul li {
@@ -16,11 +16,20 @@ nav ul {
     color: white;
     text-align: center;
     padding: 1en 0;
-    width: 50px;
+    width: 100px;
     padding: 14px 16px;
     text-decoration: none;
     border-right: 2px solid black; 
   }
+  article{
+    clear: left;
+    width: 70%;
+    float: left;
+    column-count:3;
+    column-rule: 2px dotted rgba(52, 50, 159, 0.816);
+    column-gap: 4em;
+    margin-left: 1em;
+}
 article p::first-letter{
     font-size: 2em;
     font-weight: bold;
