@@ -39,7 +39,11 @@ aside_menu ol li a{
 aside_menu ul li a{
     list-style-type: square;
 }
-footer.fixed{
+footer p.copyright{
+    text-align: center;
+    font-size: 80%;
+}
+aside.fixed{
     width: auto;
     position: fixed;
     padding: 2em;
