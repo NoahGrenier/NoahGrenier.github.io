@@ -21,6 +21,12 @@ nav ul {
     text-decoration: none;
     border-right: 2px solid black; 
   }
+  article p::first-letter{
+    font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(51, 50, 159);
+}
 aside ol li{
     list-style-type: upper-roman;
 }
@@ -33,7 +39,7 @@ aside_menu ol li a{
 aside_menu ul li a{
     list-style-type: square;
 }
-p.fixed{
+footer.fixed{
     width: auto;
     position: fixed;
     padding: 2em;
