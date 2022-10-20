@@ -21,7 +21,7 @@ nav ul {
     text-decoration: none;
     border-right: 2px solid black; 
   }
-  article p::first-letter{
+article p::first-letter{
     font-size: 2em;
     font-weight: bold;
     font-style: italic;
