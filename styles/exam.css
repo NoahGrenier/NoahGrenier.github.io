@@ -26,7 +26,7 @@ nav ul {
     margin: 100px auto;
     background-color: white;
     padding: 15px 1.5em;
-    border: 1px solid (52, 50, 159, 0.816);
+    border: 1px solid (52, 50, 159, 0.816);  
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
   }
@@ -35,8 +35,8 @@ nav ul {
     width: 75%;
     float: left;
     column-count:3;
-    column-rule: 5px dotted rgba(52, 50, 159, 0.816);
-    column-gap: 0.5em;
+    column-rule: 10px dotted rgba(52, 50, 159, 0.816);
+    column-gap: 2em;
     margin-left: 1em;
 }
 article h3{
