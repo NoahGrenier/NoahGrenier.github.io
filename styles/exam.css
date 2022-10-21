@@ -1,3 +1,6 @@
+html{
+    background-image: repeating-linear-gradient( white 0%, lightblue 100%);
+}
 nav ul {
     list-style-type: none;
     display: block;
