@@ -43,6 +43,9 @@ article h3{
     border-top: 2px solid maroon;
     column-span: all;
 }
+article h2{
+    color: rgba(52, 50, 159, 0.816);
+}
 article img{
     float: left;
 }
