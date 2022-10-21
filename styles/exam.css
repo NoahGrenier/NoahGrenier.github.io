@@ -1,6 +1,6 @@
 html{
     /*background-image: repeating-linear-gradient( white 0%, lightblue 100%);*/
-    background: linear-gradient(to left, lightblue 50%, white 50%) right;
+    background-image: linear-gradient(to right, lightblue , white);
 }
 nav ul {
     list-style-type: none;
