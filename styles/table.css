@@ -38,11 +38,11 @@ html, body {
     /*-----------------------------------------------------------*/
 
     table.third {
-        border: 2px solid darkorange;   
+        border: 2px, 2px solid darkorange;   
         border-collapse: collapse; 
     }
         table.third thead{
-            border: 2px solid darkorange;
+            border: 2px, 2px solid darkorange;
         }
     table.third th, td {
         padding: .2em .7em;
