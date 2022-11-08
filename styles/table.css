@@ -38,7 +38,9 @@ html, body {
     /*-----------------------------------------------------------*/
 
     table.third {
-        border-collapse: collapse; }
+        border-collapse: collapse; 
+        border: 2px darkorange;
+    }
         table.third thead{
             border: 2px darkorange;
         }
