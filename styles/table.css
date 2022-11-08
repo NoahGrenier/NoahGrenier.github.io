@@ -38,10 +38,9 @@ html, body {
     /*-----------------------------------------------------------*/
 
     table.third {
-        border: 1px solid black;
+        border-top: 1px solid orange;
         border-collapse: collapse; }
     table.third th, td {
-        border: 1px solid black;
         padding: .2em .7em;
         text-align: right; }
     th.left, td.left { text-align: left; }
