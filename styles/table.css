@@ -52,7 +52,7 @@ html, body {
          text-align: left; 
         }
     table.third thead, tfoot {
-         background-color: lightgreen;
+         background-color: lightblue;
     }
     table.third tfoot {
         border-top: 2px solid darkorange;
