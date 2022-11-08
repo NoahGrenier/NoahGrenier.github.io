@@ -35,3 +35,16 @@ html, body {
         border-bottom: 2px solid purple;
     }
     
+    /*-----------------------------------------------------------*/
+
+    table.third {
+        border: 1px solid black;
+        border-collapse: collapse; }
+    table.third th, td {
+        border: 1px solid black;
+        padding: .2em .7em;
+        text-align: right; }
+    th.left, td.left { text-align: left; }
+    table.third thead, tfoot { background-color: lightgreen; }
+    table.third tfoot { font-weight: bold; }
+        
