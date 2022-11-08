@@ -38,14 +38,13 @@ html, body {
     /*-----------------------------------------------------------*/
 
     table.third {
-        border: 2px darkorange;
+        border: 2px solid darkorange;   
         border-collapse: collapse; 
     }
         table.third thead{
-            border: 2px, 2px darkorange;
+            border: 2px solid darkorange;
         }
     table.third th, td {
-        border: 2px darkorange;
         padding: .2em .7em;
         text-align: center; 
     }
@@ -53,10 +52,10 @@ html, body {
          text-align: left; 
         }
     table.third thead, tfoot {
-         background-color: lightblue;
+         background-color: lightgreen;
     }
     table.third tfoot {
-        border: 2px darkorange;
+        border-top: 2px solid darkorange;
          font-weight: bold; 
         }
         
