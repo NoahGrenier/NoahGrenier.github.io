@@ -39,7 +39,7 @@ html, body {
 
     table.third {
         border-collapse: collapse; }
-        table.third th{
+        table.third thead{
             border: 2px darkorange;
         }
     table.third th, td {
