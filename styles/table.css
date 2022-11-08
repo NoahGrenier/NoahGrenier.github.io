@@ -38,12 +38,15 @@ html, body {
     /*-----------------------------------------------------------*/
 
     table.third {
-        border-top: 1px solid orange;
+        border-top: 2px solid orange;
         border-collapse: collapse; }
     table.third th, td {
+        border-top: 2px solid orange;
         padding: .2em .7em;
         text-align: right; }
     th.left, td.left { text-align: left; }
-    table.third thead, tfoot { background-color: lightgreen; }
+    table.third thead, tfoot { background-color: lightgreen;
+    border-bottom: 2px orange;
+    }
     table.third tfoot { font-weight: bold; }
         
