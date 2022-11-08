@@ -38,11 +38,11 @@ html, body {
     /*-----------------------------------------------------------*/
 
     table.third {
-        border: 2px, 2px solid darkorange;   
+        border-top: 2px solid darkorange;   
         border-collapse: collapse; 
     }
         table.third thead{
-            border: 2px, 2px solid darkorange;
+            border-top: 2px, 2px solid darkorange;
         }
     table.third th, td {
         padding: .2em .7em;
@@ -52,7 +52,7 @@ html, body {
          text-align: left; 
         }
     table.third thead, tfoot {
-         background-color: lightblue;
+         background-color: lightgreen;
     }
     table.third tfoot {
         border-top: 2px solid darkorange;
