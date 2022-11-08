@@ -47,9 +47,15 @@ html, body {
     table.third th, td {
         border: 2px, 2px darkorange;
         padding: .2em .7em;
-        text-align: center; }
-    th.left, td.left { text-align: left; }
-    table.third thead, tfoot { background-color: lightgreen;
+        text-align: center; 
     }
-    table.third tfoot { font-weight: bold; }
+    th.left, td.left {
+         text-align: left; 
+        }
+    table.third thead, tfoot {
+         background-color: lightgreen;
+    }
+    table.third tfoot {
+         font-weight: bold; 
+        }
         
