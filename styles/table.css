@@ -39,10 +39,10 @@ html, body {
 
     table.third {
         border-collapse: collapse; 
-        border: 2px darkorange;
+        border: 2px, 2px darkorange;
     }
         table.third thead{
-            border: 2px darkorange;
+            border: 2px, 2px darkorange;
         }
     table.third th, td {
         padding: .2em .7em;
