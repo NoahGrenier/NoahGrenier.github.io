@@ -38,18 +38,18 @@ html, body {
     /*-----------------------------------------------------------*/
 
     table.third {
-        border-collapse: collapse; 
         border: 2px, 2px darkorange;
+        border-collapse: collapse; 
     }
         table.third thead{
             border: 2px, 2px darkorange;
         }
     table.third th, td {
+        border: 2px, 2px darkorange;
         padding: .2em .7em;
         text-align: center; }
     th.left, td.left { text-align: left; }
     table.third thead, tfoot { background-color: lightgreen;
-    border-bottom: 2px darkorange;
     }
     table.third tfoot { font-weight: bold; }
         
