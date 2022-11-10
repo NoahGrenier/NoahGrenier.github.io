@@ -41,7 +41,7 @@ html, body {
         border-collapse: collapse; 
     }
     table.third thead{
-        border-bottom: 2px solid darkorange;   
+        border-bottom: 4px solid darkorange;   
     }
     table.third th, td {
         text-align: center; 
