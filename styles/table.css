@@ -42,7 +42,8 @@ html, body {
     }
     table.third thead{
         border-top: 2.5px solid darkorange;
-        border-bottom: 2.5px solid darkorange;   
+        border-bottom: 2.5px solid darkorange;
+        background-color: lightgreen;
     }
     table.third th, td {
         padding: 0.6em;
