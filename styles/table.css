@@ -42,6 +42,7 @@ html, body {
         border-collapse: collapse; 
     }
     table.third th, td {
+        border-top: 2px solid darkorange;
         padding: .2em .7em;
         text-align: center; 
     }
