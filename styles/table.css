@@ -46,13 +46,13 @@ html, body {
     }
     table.third th, td {
         padding: 0.6em;
-        border-bottom: 2.5px solid darkorange;   
         text-align: center; 
     }
     th.left, td.left {
          text-align: left; 
         }
-    table.third thead, tfoot {
-         background-color: lightgreen;
+    table.third tfoot, td {
+        border-top: 2.5px solid darkorange;
+        background-color: lightgreen;
     }
         
