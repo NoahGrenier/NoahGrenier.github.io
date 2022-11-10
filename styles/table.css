@@ -38,14 +38,12 @@ html, body {
     /*-----------------------------------------------------------*/
 
     table.third {
-        border-top: 2px solid darkorange;   
         border-collapse: collapse; 
     }
     table.third thead{
         border-bottom: 2px solid darkorange;   
     }
     table.third th, td {
-        border-bottom: 2px solid darkorange;
         padding: .2em .7em;
         text-align: center; 
     }
