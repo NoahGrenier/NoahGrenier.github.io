@@ -41,11 +41,11 @@ html, body {
         border-collapse: collapse; 
     }
     table.third thead{
-        border-bottom: 4px solid darkorange;   
+        border-bottom: 3px solid darkorange;   
     }
     table.third th, td {
         padding: 0.5em;
-        border-bottom: 4px solid darkorange;   
+        border-bottom: 3px solid darkorange;   
         text-align: center; 
     }
     th.left, td.left {
