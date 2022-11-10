@@ -41,7 +41,8 @@ html, body {
         border-collapse: collapse; 
     }
     table.third thead{
-        border: 2.5px 0 solid darkorange;   
+        border-top: 2.5px 0 solid darkorange;
+        border-bottom: 2.5px 0 solid darkorange;   
     }
     table.third th, td {
         padding: 0.6em;
