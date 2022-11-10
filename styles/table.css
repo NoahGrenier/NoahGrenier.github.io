@@ -44,7 +44,6 @@ html, body {
         border-bottom: 2px solid darkorange;   
     }
     table.third th, td {
-        padding: .2em .7em;
         text-align: center; 
     }
     th.left, td.left {
