@@ -51,7 +51,7 @@ html, body {
     th.left, td.left {
          text-align: left; 
         }
-    table.third tfoot, td {
+    table.third tfoot {
         border-top: 2.5px solid darkorange;
     }
         
