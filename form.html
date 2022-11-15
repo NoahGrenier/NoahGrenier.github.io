@@ -49,12 +49,14 @@
 
     <fieldset>
         <legend>Membership Information</legend>
-        <optgroup lable="Type">
-            <option value="Junior">Junior</option>
-            <option value="Regular">Regular</option>
-            <option value="Charter">Charter</option>
-            <br>
-        </optgroup>
+        <form action="/action_page.php">
+            <label for="cars">Membership Type:</label>
+            <select id="membership_type" name="membership">
+              <option value="Junior">Junior</option>
+              <option value="Regular">Regular</option>
+              <option value="Charter">Charter</option>
+              <br>
+          </form>
         <label for="starting_date">Starting Date:</label>
         Date:&nbsp;&nbsp;
         <input type="date" id="date"
@@ -87,6 +89,14 @@
             placeholder="If you have any comments, please enter them here.">
         </textarea>
 
+    </fieldset>
+
+    <fieldset>
+        <legend>Submit Your Membership</legend>
+        <input type="submit">
+        <input type="submit" id="reset" name="reset" vaule="reset">
+        <lable for="reset"> Reset Fields</lable>
+        <br>
     </fieldset>
     </form>
 </body>
