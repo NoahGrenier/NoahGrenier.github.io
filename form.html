@@ -1,4 +1,4 @@
-type <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -65,6 +65,28 @@ type <!DOCTYPE html>
         <input type="number" name="tickets_for_guest" id="tickets_for_guest" required
             min="1" max="4" vaule="1">
             <br>
+    </fieldset>
+
+    <fieldset>
+        <legend>How Did You Hear About Us?</legend>
+        <form action="/action_page.php">
+            <input type="checkbox" id="Option1" name="Option1" value="Search_engine">
+            <label for="Option1"> Search engine</label><br>
+            <input type="checkbox" id="Option2" name="Option2" value="Social_meida">
+            <label for="Option2"> Social media</label><br>
+            <input type="checkbox" id="Option3" name="Option3" value="Email">
+            <label for="Option3"> Email</label><br><br>
+            <input type="checkbox" id="Option4" name="Option4" value="Friend_or_colleague">
+            <label for="Option4"> Friend or colleague</label><br><br>
+          </form> 
+    </fieldset>
+
+    <fieldset>
+        <legend>Comments</legend>
+        <textarea id="comments"
+            placeholder="If you have any comments, please enter them here.">
+        </textarea>
+
     </fieldset>
     </form>
 </body>
